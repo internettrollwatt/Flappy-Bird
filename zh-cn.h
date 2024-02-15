@@ -21,6 +21,7 @@
 #define 小鸟位置 birdxyz
 #define 管道位置 pipexyz
 #define 碰撞检测 checkcollision
+#define 屏幕检测 Screendetection
 #define 换行 endl
 #define 延时 Sleep
 #define 主函数 main
