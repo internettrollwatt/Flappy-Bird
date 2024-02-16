@@ -40,7 +40,7 @@
 #define 文本为红色 "\x1b[31m"
 #define 文本为绿色 "\x1b[32m"
 #define 文本为黄色 "\x1b[33m"
-#define 文本为蓝色 "\033[34m"
+#define 文本为蓝色 "\x1b[36m"
 #define 控制台 hConsole
 #define 如果 if
 #define 否则 else
