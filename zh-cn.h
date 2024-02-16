@@ -12,6 +12,7 @@
 #define 真 true
 #define 假 false
 #define 字符 char
+#define 函数类型转换 static_cast
 #define 随机数 rand
 #define 随机数种子 srand
 #define 执行命令 system
@@ -22,6 +23,7 @@
 #define 管道位置 pipexyz
 #define 碰撞检测 checkcollision
 #define 屏幕检测 Screendetection
+#define 获取系统电源状态 GetSystemPowerStatus
 #define 换行 endl
 #define 延时 Sleep
 #define 主函数 main
@@ -31,6 +33,7 @@
 #define 获取标准句柄 GetStdHandle
 #define 标准输出句柄 STD_OUTPUT_HANDLE
 #define 设置控制台坐标 SetConsoleCursorPosition
+#define 系统电源状态 SYSTEM_POWER_STATUS
 #define 字符类型 CharType
 #define 定义坐标 COORD
 #define 字符串类 string
@@ -65,6 +68,8 @@
 #define 难度 difficulty
 #define 游戏结束 gameover
 #define 坐标结构体 pos
+#define 电源状态 sysPowerStatus
+#define 接电 ACLineStatus
 #define 甲 a
 #define 乙 b
 #define 丙 c
