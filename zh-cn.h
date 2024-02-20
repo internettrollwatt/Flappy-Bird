@@ -69,7 +69,7 @@
 #define 游戏结束 gameover
 #define 坐标结构体 pos
 #define 电源状态 sysPowerStatus
-#define 接电 ACLineStatus
+#define 交流电源状态 ACLineStatus
 #define 甲 a
 #define 乙 b
 #define 丙 c
